@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://rthompson:Tomtom20$@raceto7.ofia1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "jAbSdogih54%$%2348dn",
+  "awsId": "AKIA4ERIRF6SXWM3GX5U",
+  "awsSecret": "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"
+}
